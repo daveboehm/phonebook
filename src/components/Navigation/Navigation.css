@@ -1,0 +1,19 @@
+.Navigation {
+    width: 100%;
+    height: 60px;
+    background-color: lightblue;
+}
+
+.Navigation ul {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 0 auto;
+    list-style: none;
+    width: 100%;
+    max-width: 800px;
+}
+.Navigation ul li a {
+    color: lightslategray;
+    text-decoration: none;
+}
